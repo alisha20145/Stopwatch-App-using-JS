@@ -1,0 +1,17 @@
+body{
+    background-color: lightsalmon
+}
+h1{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: blue;
+    border-color: blue;
+    color:white;
+    border-radius:3px;
+    font-weight: bold;
+}
+span{
+    background-color: white;
+}
